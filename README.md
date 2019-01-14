@@ -1,23 +1,36 @@
-# Assignment_42.11438
-Introduction
+Data Science Masters
+A C A D G I L D Page 2
+Assignment 1 – You must perform the given tasks.
+Table of Contents
+Data Science Masters
+A C A D G I L D Page 3
+1. Introduction
 In this assignment, you need to perform the given tasks.
-Objective
-This assignment will help you consolidate the concepts taught in the session 4.
-Prerequisites: 
+2. Objective
+This assignment will help you to consolidate the concepts learnt in the session 4.
+3. Prerequisites:
 None
-Associated Data Files
-DATASET
-Dataset is sample data of songs heard by users on an online streaming platform. The Description of data set attached in musicdata.txt is as follows: -
-1st Column - UserId
-2nd Column - TrackId
-3rd Column - Songs Share status (1 for shared, 0 for not shared)
-4th Column - Listening Platform (Radio or Web - 0 for radio, 1 for web)
-5th Column - Song Listening Status (0 for skipped, 1 for fully heard)
-Problem Statement
-Write Map Reduce program for following tasks.
+4. Associated Data Files
+None
+5. Problem Statement
 Task 1
-Find the number of unique listeners in the data set.
+Follow the below link document steps to download and import AcadgildSpark VM in the Oracle Virtual
+Box.
+ACADGILD_VM
+NOTE: If your system is compatible with 64 bit VM, then please download the Acadgild Spark 64 Bit file,
+else download the Acadgild Spark 32 Bit file from the below link.
 Task 2
-What are the number of times a song was heard fully.
+Given a list of strings - List[String] (“alpha”, “gamma”, “omega”, “zeta”, “beta”)
+- find count of all strings with length 4
+- convert the list of string to a list of integers, where each string is mapped to its
+corresponding length
+- find count of all strings which contain alphabet ‘m’
+- find the count of all strings which start with the alphabet ‘a’
 Task 3
-What are the number of times a song was shared.
+Create a Scala application to find the GCD of two numbers.
+Data Science Masters
+A C A D G I L D Page 4
+6. Expected Output
+Solution report with commands, explanation to commands and screenshot for output.
+Report shall be in PDF format. Submitted in GitHub
+7. Approximate Time to Complete Task
